@@ -16,10 +16,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-rod/rod/lib/defaults"
-	"github.com/go-rod/rod/lib/launcher"
-	"github.com/go-rod/rod/lib/launcher/flags"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/yeyu12/rod/lib/defaults"
+	"github.com/yeyu12/rod/lib/launcher"
+	"github.com/yeyu12/rod/lib/launcher/flags"
+	"github.com/yeyu12/rod/lib/utils"
 	"github.com/ysmood/got"
 )
 
